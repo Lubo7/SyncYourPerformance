@@ -277,32 +277,32 @@ hr.title-divider {
 /* ==== 5) Intro & Sections Headers ==== */
 
 #intro {
-	background-image: url("http://placehold.it/1600x900");
+	background-image: url(../images/Joshua_in_action_footvolley.png);
 	-webkit-background-size: cover;
 	background-size: cover;
 	min-height: 445px;
 }
 
 #clients {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url(../images/Kayla_nutrition_cutting_food.jpeg);
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #works-top {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url(../images/Client_training.jpeg);
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #gallery-top {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url(../images/Kayla_nutrition_cutting_food.jpeg);
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #team-top {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url(../images/Joshua_in_action_footvolley.png);
 	-webkit-background-size: cover;
 	background-size: cover;
 }
